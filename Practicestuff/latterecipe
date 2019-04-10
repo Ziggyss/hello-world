@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+     <header>
+        <h1>How To Make A Latte</h1>
+        image
+        <p>Nowadays espresso machines are available to buy for your home, giving you the chance to bring the coffee shop to your kitchen. Here's a simple recipe for a delicious latte using a home espresso machine. </p>
+    </header>
+    <section>
+        <h2>Ingredients</h2>
+          <ul>
+            <li>Espresso coffee (fine grain)</li>
+            <li>Water</li>
+            <li>Milk - Dairy/Plant-based</li>
+            <li>Sugar/Honey/Latte Syrup (Optional)</li>
+          </ul>
+    </section>
+    <section>
+        <h2>Preparation</h2>
+          <ol>
+            <li>Fill  up the espresso machine with water and turn it on to heat up.</li>
+            <li>Twist the handle on the machine and remove the portafilter.</li>
+            <li>Measure the correct amount of coffee and place it in the filter and tamp it down.</li>
+            <li>Place a cup under the portafilter and push the button on the machine to produce the espresso shot.</li>
+            <li>Fill a small jug with approximately 150 ml of your chosen milk and push the froth button on the machine.</li>
+            <li>Place the nozzle into the milk and allow the machine to work its magic.</li>
+            <li>Tap the jug on the counter when finished and then add to your espresso.</li>
+            <li>Add sugar, honey or latte syrup to taste.</li>
+            <li>Enjoy a cup of smooth latte!</li>
+          </ol>
+       
+    </section>
+    <footer>
+      Copyright Me, 2019
+    </footer>
+    <script src="index.js"></script>
+  </body>
+</html>
